@@ -1,0 +1,10 @@
+{
+  "$schema": "https://wails.io/schemas/config.v2.json",
+  "name": "miproyecto",
+  "outputfilename": "miproyecto",
+  "wailsjsdir": "./frontend",
+  "author": {
+    "name": "69ElPepe69",
+    "email": "thomas.fazio.et7@gmail.com"
+  }
+}
